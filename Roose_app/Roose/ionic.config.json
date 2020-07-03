@@ -1,7 +1,8 @@
 {
   "name": "Roose",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
